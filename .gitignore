@@ -7,5 +7,8 @@
 # Except the cards_data.json file
 !/cards_data.json
 
+
 # Except this .gitignore file
 !/.gitignore
+
+!/BladeGamer MTGA Draft Helper
