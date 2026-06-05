@@ -11,4 +11,10 @@
 # Except this .gitignore file
 !/.gitignore
 
-!/BladeGamer MTGA Draft Helper
+
+# Except the latest data directory and its contents
+!/latest data downlode/
+
+
+# Except the latest softwhere directory and its contents
+!/latest software download/
