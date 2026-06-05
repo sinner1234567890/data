@@ -1,20 +1,7 @@
-# Ignore everything in the directory
-/*
-
-# Except the assets directory and its contents
-!/assets/
-
-# Except the cards_data.json file
-!/cards_data.json
-
-
-# Except this .gitignore file
-!/.gitignore
-
-
-# Except the latest data directory and its contents
-!/latest data downlode/
-
-
-# Except the latest softwhere directory and its contents
-!/latest software download/
+ignore/
+__pycache__/
+*.pyc
+latest_data_*.zip
+latest_software_*.zip
+temp_build_data/
+github_token.txt
